@@ -1,3 +1,10 @@
+/*
+FILE           : m1.cpp
+PROJECT        : Major Assignment - 1
+PROGRAMMER     : Vekariya Jasmi Devjibhai (Jvekariya0251@conestogac.on.ca)
+FIRST VERSION  : 01-02-2024
+DESCRIPTION    : This program delineates the code to display characters and their mean values.
+*/
 #include <stdio.h>
 int main()
 {
